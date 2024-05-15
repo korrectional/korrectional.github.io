@@ -42,5 +42,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
+#  - README.md
   - CNAME
