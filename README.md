@@ -2,4 +2,4 @@ I'm learning pentesting/hacking and this is a place where I document my (newly e
 
 [Intro](https://korrectional.github.io/Posts/Intro.txt)
 
-[HTB Oopsie](https://korrectional.github.io/HTB/Oopsie.txt)
+[Hack The Box](https://korrectional.github.io/HTB/mainHTB.txtxt)
