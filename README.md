@@ -1,2 +1,2 @@
-# korrectional.github.io
+# korrectional.blog
 A website
