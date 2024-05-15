@@ -1,0 +1,25 @@
+**I decided to start writing here to document my progress, as well as pass time (I often end up with a computer that isn't totally mine, so I can only interact with github)
+A couple days ago, I started learning about pentesting, and the idea of breaking into stuff for money sounded cool.**
+
+*Some backround*:
+In the last 4 years since I learned how to program, I've been jumping between different areas, including gameDev, OSdev and WebDev. Yet I never got exceptionally good at any, and I
+really need something concrete to brag about for schools and stuff. Many of the reasons that I gave up on things like OSdev, WebDev, Data Science, Machine Learning (not GameDev, I still
+do it with a lot of passion) were that I couldn't really find cool uses for it (ohoh I made a search engine for houses in Austin, so cool) or super mega complicated (FAT12 took the remaining
+cells/transistors i had in my breain). Now Pentesting has some interesting applications.
+
+*My progress as of now*: 
+I'm currently on the 2nd Tier, 1st box (Archetype) of app.hackthebox.com, after 3 days.
+
+Stuff I learned:
+Sadly for me, the Tiers 0 and 1 of HTB teach us to rely on systems that are heavily misconfigured, or have no passwords at all, what makes me feel
+stupid because I soon as we got to slightly more complicated stuff I felt very lost. Aside from "use admin/root" for login, here's what I remember I
+learned (it's absolutely not in order, skip this if you wish):
+1- Some websites have hidden directories that are not proprely protected
+2- On login pages, because of how SQL is built, using an # might disrupt the code and there would be no need for a password (SQL Injection)
+3- Something very interesting is that active languages like php and python can consider user input as commands if the website is not coded proprely,
+    so the use of commands is possible. In Server-Side Template Injection, if the input is added to the template and not to the data, we can try
+    to use commands that will elevate our permissions to the point of root (some python libraries import OS even though you can't do it directly
+    in the website)
+4- Many different ports have different processes, and some are more exploitable with others. Exploiting one port might eventuallylead to exploitation
+    of others
+5- NTLM login can be exploited by intercepting a hash and trying to create a hash that is the same (effectively bruteforcing)
