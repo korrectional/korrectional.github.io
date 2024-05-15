@@ -1,7 +1,7 @@
 
 
 theme: jekyll-theme-hacker
-name: korrectional papers
+#name: korrectional papers
 #description: 
 avatar: ../images/logo.png
 footer-links:
@@ -9,7 +9,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 0xPat
+ # github: 0xPat
   instagram:
   linkedin: 
   pinterest:
