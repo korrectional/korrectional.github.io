@@ -10,3 +10,8 @@ The main functionality of nmap is to scan for open ports and find out more about
 1- TCP / UDP / SYN
 
 
+There are 3 ways to scan ports with nmap, and they do different things.
+
+TCP:
+TCP is a protocol in which, to establish a connection, the client sends a synchronization request to the server, then the server returns a sync-acknowledgment back to the client and then the client sends another acknowledgment request. Think about a computer and a server, the computer says "do you hear me?", the server says "yes, just confirm that you can hear me too" and the computer says "I do" (3 ways). The whole point of TCP is to make sure that the client and the server can reach each other before sending stuff.
+Nmap allows you to use tcp to scan for ports. The same thing happens: you talk to the server, it replies and you reply back. (If we don't reply at the end, it's because the server will just keep sending us a request). If there is a firewall, it send no response, so we will know that the port is filtered (when they are closed, we get a "port closed" back)
