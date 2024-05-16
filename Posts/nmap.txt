@@ -1,1 +1,12 @@
-yes
+Nmap is an awesome tool to research a target and find ways to attack it. If you're just getting into hacking, there might be some functionalities in nmap that you don't know about.
+
+
+
+Netmap overview:
+The main functionality of nmap is to scan for open ports and find out more about these ports. Knowing which ports are open is crucial because that's how you get into a network.
+
+
+
+1- TCP / UDP / SYN
+
+
