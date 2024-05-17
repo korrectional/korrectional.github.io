@@ -18,7 +18,9 @@ TLDR: I want learn and write here
 
 # Hackboxes
 If you don't wanna get chased by the government, do some hack boxes.
-[Try hack me](https://tryhackme.org)
+
+[Try hack me](https://tryhackme.com)
+
 [Hack The Box](https://app.hackthebox.com)
 
 
