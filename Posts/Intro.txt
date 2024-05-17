@@ -7,8 +7,7 @@ really need something concrete to brag about for schools and stuff. Many of the 
 do it with a lot of passion) were that I couldn't really find cool uses for it (ohoh I made a search engine for houses in Austin, so cool) or super mega complicated (FAT12 took the remaining
 cells/transistors i had in my breain). Now Pentesting has some interesting applications.
 
-*My progress as of now*: 
-I'm currently on the 2nd Tier, 1st box (Archetype) of app.hackthebox.com, after 3 days.
+
 
 Stuff I learned:
 Sadly for me, the Tiers 0 and 1 of HTB teach us to rely on systems that are heavily misconfigured, or have no passwords at all, what makes me feel
