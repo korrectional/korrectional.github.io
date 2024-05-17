@@ -6,4 +6,6 @@
 
 [2- Nmap](https://korrectional.github.io/Posts/nmap.txt)
 
-[Hack The Box](https://korrectional.github.io/HTB/mainHTB.txt)
+
+# Hack the Box
+[Oopsie](https://korrectional.github.io/HTB/Oopsie.txt)
