@@ -20,8 +20,8 @@ TLDR: I want learn and write here
 If you don't wanna get chased by the government, do some hack boxes.
 
 [Try hack me](https://tryhackme.com)
-
 [Hack The Box](https://app.hackthebox.com)
 
 
 ## [Oopsie](https://korrectional.github.io/HTB/OopsieHTB.txt)
+This isn't actually a way to solve this box, but more of a technical analysis.
