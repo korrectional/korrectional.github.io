@@ -1,6 +1,10 @@
 # Posts
 
 
+## [3- Fowsniff THM](https://korrectional.github.io/Posts/3-Fowsniff.txt)
+A simple THM box for beginners
+
+
 ## [2- Nmap](https://korrectional.github.io/Posts/nmap.txt)
 Considerably the best tool for target enumeration, you just can't go without this
 
