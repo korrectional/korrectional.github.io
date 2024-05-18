@@ -1,7 +1,7 @@
 # Posts
 
 
-## [3- Fowsniff THM](https://korrectional.github.io/Posts/3-Fowsniff)
+## [3- Fowsniff THM](https://korrectional.github.io/Posts/3-Fowsniff.txt)
 A simple THM box for beginners
 
 
