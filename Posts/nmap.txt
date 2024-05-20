@@ -21,3 +21,6 @@ UDP:
 In his protocol, we just bombard the server with packets. In networking, this is more often used when speed is a priority (like when you're in a zoom call and the image gets pixelated) because we don't make sure that all files get there. You would expect this to be faster, but it's actually slower than using TCP with nmap because nmap will send packets and double check it and hope that the service that works in that port has some specific answer it has to send (ex: FTP will ask you to login). We can't know if the port is using a firewall or is just closed. 
 Use the -sU flag, ex:      nmap -sU 123.456.78.876
 
+SYN:
+This is a modification of TCP in which instead of the client sending a final acknowledgment, we send a cancel request. This makes SYN a lot faster because we do not need to fully establish connections and then break them.
+Use the -sS flag.
