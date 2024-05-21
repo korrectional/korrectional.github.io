@@ -1,7 +1,7 @@
 # Posts
 
 
-## [4- Top 10 OWASP](https://korrectional.github.io/Posts/4-Top10-OWASP)
+## [4- Top 10 OWASP](https://korrectional.github.io/Posts/4-Top10-OWASP.txt)
 The 10 most common vulnerabilities on the internet
 
 ## [3- Fowsniff THM](https://korrectional.github.io/Posts/3-Fowsniff.txt)
