@@ -7,6 +7,8 @@ stupid because I soon as we got to slightly more complicated stuff I felt very l
 learned (it's absolutely not in order, skip this if you wish)
 1- Some websites have hidden directories that are not proprely protected
 2- On login pages, because of how SQL is built, using an # might disrupt the code and there would be no need for a password (SQL Injection)
+
+
 3- Something very interesting is that active languages like php and python can consider user input as commands if the website is not coded proprely,
     so the use of commands is possible. In Server-Side Template Injection, if the input is added to the template and not to the data, we can try
     to use commands that will elevate our permissions to the point of root (some python libraries import OS even though you can't do it directly
