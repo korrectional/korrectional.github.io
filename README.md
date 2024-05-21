@@ -18,7 +18,7 @@ A simple THM box for beginners
 Considerably the best tool for target enumeration, you just can't go without this
 
 
-## [1- Random starter knowledge](https://korrectional.github.io/Posts/RStarterK.txt)
+## [1- Random starter knowledge](https://korrectional.github.io/Posts/RStarterK.md)
 Basic things I took from the starting point in HTB
 
 
