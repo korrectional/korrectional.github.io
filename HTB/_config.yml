@@ -22,7 +22,7 @@ disqus:
 google_analytics:
 url:
 baseurl: ""
-permalink: #/:title/
+permalink: /:title/
 version: #v1.2.0
 kramdown:
   input: GFM
