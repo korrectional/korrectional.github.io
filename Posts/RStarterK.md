@@ -1,3 +1,9 @@
+---
+layout: post
+title: Abusing COM objects
+---
+
+
 This text used to be together with the intro, but since my knwlodge is always growing, I decided to keep this as it's own thing.
 
 
