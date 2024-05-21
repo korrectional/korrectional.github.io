@@ -1,6 +1,7 @@
 This text used to be together with the intro, but since my knwlodge is always growing, I decided to keep this as it's own thing.
 
 Stuff I learned:
+
 Sadly for me, the Tiers 0 and 1 of HTB teach us to rely on systems that are heavily misconfigured, or have no passwords at all, what makes me feel
 stupid because I soon as we got to slightly more complicated stuff I felt very lost. Aside from "use admin/root" for login, here's what I remember I
 learned (it's absolutely not in order, skip this if you wish):
