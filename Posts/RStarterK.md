@@ -4,7 +4,7 @@ Stuff I learned:
 
 Sadly for me, the Tiers 0 and 1 of HTB teach us to rely on systems that are heavily misconfigured, or have no passwords at all, what makes me feel
 stupid because I soon as we got to slightly more complicated stuff I felt very lost. Aside from "use admin/root" for login, here's what I remember I
-learned (it's absolutely not in order, skip this if you wish):
+learned (it's absolutely not in order, skip this if you wish)
 1- Some websites have hidden directories that are not proprely protected
 2- On login pages, because of how SQL is built, using an # might disrupt the code and there would be no need for a password (SQL Injection)
 3- Something very interesting is that active languages like php and python can consider user input as commands if the website is not coded proprely,
