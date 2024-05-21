@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 #name: korrectional papers
 #description: 
-avatar: ../images/logo.png
+avatar: #../images/logo.png
 footer-links:
   dribbble:
   email:
@@ -22,8 +22,8 @@ disqus:
 google_analytics:
 url:
 baseurl: ""
-permalink: /:title/
-version: v1.2.0
+permalink: #/:title/
+version: #v1.2.0
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -36,9 +36,9 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-admin
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
+#exclude:
+  #- Gemfile
+  #- Gemfile.lock
+  #- LICENSE
 #  - README.md
-  - CNAME
+  #- CNAME
