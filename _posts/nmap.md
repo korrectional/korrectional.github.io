@@ -1,3 +1,8 @@
+---
+layout: post
+title: Abusing COM objects
+---
+
 Nmap is an awesome tool to research a target and find ways to attack it. If you're just getting into hacking, there might be some functionalities in nmap that you don't know about.
 
 

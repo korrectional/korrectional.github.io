@@ -1,3 +1,8 @@
+---
+layout: post
+title: Abusing COM objects
+---
+
 Yesterday I managed to complete the Fowsniff CTF room. It was quite simple and I highly reccomend it. Here I will talk about some of the things involved in that box.
 
 1 - OSINT

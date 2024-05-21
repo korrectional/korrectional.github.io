@@ -1,3 +1,8 @@
+---
+layout: post
+title: Abusing COM objects
+---
+
 **I decided to start writing here to document my progress, as well as pass time (I often end up with a computer that isn't totally mine, so I can only interact with github)
 A couple days ago, I started learning about pentesting, and the idea of breaking into stuff for money sounded cool.**
 
