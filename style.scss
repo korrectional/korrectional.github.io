@@ -1,10 +1,9 @@
----
----
+//---
+//---
 
 //
 // IMPORTS
 //
-@import "{{ site.theme }}";
+@import "";
 
-@import "highlights";
-@import "svg-icons";
+@import "{{ site.theme }}";
